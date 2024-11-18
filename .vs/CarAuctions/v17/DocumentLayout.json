@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\auctionservice\\dtos\\updateauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\dtos\\updateauctiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateAuctionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Dtos\\UpdateAuctionDto.cs",
+              "RelativeDocumentMoniker": "AuctionService\\Dtos\\UpdateAuctionDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Dtos\\UpdateAuctionDto.cs",
+              "RelativeToolTip": "AuctionService\\Dtos\\UpdateAuctionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:58:22.528Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,14 +57,14 @@
               "RelativeDocumentMoniker": "AuctionService\\Controllers\\AuctionsController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Controllers\\AuctionsController.cs",
               "RelativeToolTip": "AuctionService\\Controllers\\AuctionsController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAowCsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T22:20:34.677Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\RequestHelpers\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "AuctionService\\RequestHelpers\\MappingProfiles.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Auction.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Entities\\Auction.cs",
               "RelativeDocumentMoniker": "AuctionService\\Entities\\Auction.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuctionDto.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Dtos\\AuctionDto.cs",
               "RelativeDocumentMoniker": "AuctionService\\Dtos\\AuctionDto.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Program.cs",
               "RelativeDocumentMoniker": "AuctionService\\Program.cs",
