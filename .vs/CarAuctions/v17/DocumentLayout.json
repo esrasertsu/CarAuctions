@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEE09603-B5FC-4427-B547-F5BC41743A3E}|Solution Items{BEE09603-B5FC-4427-B547-F5BC41743A3E}|C:\\Users\\ASUS\\source\\repos\\CarAuctions\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{BEE09603-B5FC-4427-B547-F5BC41743A3E}|Solution Items{BEE09603-B5FC-4427-B547-F5BC41743A3E}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\controller\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\controller\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\requesthelpers\\searchparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\requesthelpers\\searchparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchParams.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\RequestHelpers\\SearchParams.cs",
+              "RelativeDocumentMoniker": "SearchService\\RequestHelpers\\SearchParams.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\RequestHelpers\\SearchParams.cs",
+              "RelativeToolTip": "SearchService\\RequestHelpers\\SearchParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:09:34.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-18T22:41:23.325Z",
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Controller\\SearchController.cs",
+              "RelativeDocumentMoniker": "SearchService\\Controller\\SearchController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Controller\\SearchController.cs",
+              "RelativeToolTip": "SearchService\\Controller\\SearchController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:48:40.522Z",
               "EditorCaption": ""
             }
           ]
