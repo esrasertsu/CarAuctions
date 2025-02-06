@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\consumers\\auctiondeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\consumers\\auctiondeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\consumers\\auctionupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\consumers\\auctionupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\consumers\\auctioncreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\consumers\\auctioncreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\auctionservice\\consumers\\auctioncreatedfaultconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\consumers\\auctioncreatedfaultconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D09F06-EC83-49DB-8DF7-20C3A495FC73}|Contracts\\Contracts.csproj|c:\\users\\asus\\source\\repos\\carauctions\\contracts\\auctioncreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D09F06-EC83-49DB-8DF7-20C3A495FC73}|Contracts\\Contracts.csproj|solutionrelative:contracts\\auctioncreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\auctionservice\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\auctionservice\\data\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39E5C06-0062-4A0E-887E-02A16DC99DFF}|AuctionService\\AuctionService.csproj|solutionrelative:auctionservice\\data\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\controller\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\controller\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\requesthelpers\\searchparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\requesthelpers\\searchparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|c:\\users\\asus\\source\\repos\\carauctions\\searchservice\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCFDA99-9715-4669-9C5C-10B65048BC5C}|SearchService\\SearchService.csproj|solutionrelative:searchservice\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuctionsController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Controllers\\AuctionsController.cs",
-              "RelativeDocumentMoniker": "AuctionService\\Controllers\\AuctionsController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Controllers\\AuctionsController.cs",
-              "RelativeToolTip": "AuctionService\\Controllers\\AuctionsController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAwB8AAAAJAAAA",
+              "DocumentIndex": 0,
+              "Title": "AuctionDeletedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Consumers\\AuctionDeletedConsumer.cs",
+              "RelativeDocumentMoniker": "SearchService\\Consumers\\AuctionDeletedConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Consumers\\AuctionDeletedConsumer.cs",
+              "RelativeToolTip": "SearchService\\Consumers\\AuctionDeletedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T09:10:25.598Z"
+              "WhenOpened": "2025-02-06T21:13:45.145Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Program.cs",
-              "RelativeDocumentMoniker": "SearchService\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Program.cs",
-              "RelativeToolTip": "SearchService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "AuctionUpdatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Consumers\\AuctionUpdatedConsumer.cs",
+              "RelativeDocumentMoniker": "SearchService\\Consumers\\AuctionUpdatedConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Consumers\\AuctionUpdatedConsumer.cs",
+              "RelativeToolTip": "SearchService\\Consumers\\AuctionUpdatedConsumer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowCQAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T09:02:56.088Z"
+              "WhenOpened": "2025-02-06T21:01:25.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Program.cs",
-              "RelativeDocumentMoniker": "AuctionService\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Program.cs",
-              "RelativeToolTip": "AuctionService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "AuctionCreatedFaultConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Consumers\\AuctionCreatedFaultConsumer.cs",
+              "RelativeDocumentMoniker": "AuctionService\\Consumers\\AuctionCreatedFaultConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Consumers\\AuctionCreatedFaultConsumer.cs",
+              "RelativeToolTip": "AuctionService\\Consumers\\AuctionCreatedFaultConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:59:09.29Z",
+              "WhenOpened": "2025-02-06T20:45:26.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuctionCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\Contracts\\AuctionCreated.cs",
+              "RelativeDocumentMoniker": "Contracts\\AuctionCreated.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\Contracts\\AuctionCreated.cs",
+              "RelativeToolTip": "Contracts\\AuctionCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T20:42:34.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Program.cs",
+              "RelativeDocumentMoniker": "AuctionService\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Program.cs",
+              "RelativeToolTip": "AuctionService\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:18:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuctionCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Consumers\\AuctionCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "SearchService\\Consumers\\AuctionCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Consumers\\AuctionCreatedConsumer.cs",
+              "RelativeToolTip": "SearchService\\Consumers\\AuctionCreatedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:37:17.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Program.cs",
+              "RelativeDocumentMoniker": "SearchService\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Program.cs",
+              "RelativeToolTip": "SearchService\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:02:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuctionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Data\\AuctionDbContext.cs",
+              "RelativeDocumentMoniker": "AuctionService\\Data\\AuctionDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\AuctionService\\Data\\AuctionDbContext.cs",
+              "RelativeToolTip": "AuctionService\\Data\\AuctionDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:20:24.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "SearchService\\Data\\DbInitializer.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Data\\DbInitializer.cs",
               "RelativeToolTip": "SearchService\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:48:35.529Z"
+              "WhenOpened": "2025-02-06T09:31:55.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SearchController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Controller\\SearchController.cs",
-              "RelativeDocumentMoniker": "SearchService\\Controller\\SearchController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Controller\\SearchController.cs",
-              "RelativeToolTip": "SearchService\\Controller\\SearchController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAMAAAA",
+              "DocumentIndex": 8,
+              "Title": "SearchParams.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\RequestHelpers\\SearchParams.cs",
+              "RelativeDocumentMoniker": "SearchService\\RequestHelpers\\SearchParams.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\RequestHelpers\\SearchParams.cs",
+              "RelativeToolTip": "SearchService\\RequestHelpers\\SearchParams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T20:48:40.522Z"
+              "WhenOpened": "2025-02-06T09:30:57.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "SearchService\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CarAuctions\\SearchService\\Models\\Item.cs",
+              "RelativeToolTip": "SearchService\\Models\\Item.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA3wAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:28:29.028Z",
+              "EditorCaption": ""
             }
           ]
         }
